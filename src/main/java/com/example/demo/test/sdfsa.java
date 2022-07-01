@@ -11,11 +11,6 @@ public class sdfsa {
         ArrayList<Object> objects2 = new ArrayList<>();
         objects2.removeAll(objects1);
 
-        list1=Arrays.asList(黑名单数组);
-        list2=Arrays.asList(所有人);
-        list2.removeAll(list1);
-
-        objects
 
     }
 }
