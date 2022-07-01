@@ -10,6 +10,8 @@ public class sdfsa {
         ArrayList<Object> objects1 = new ArrayList<>();
         ArrayList<Object> objects2 = new ArrayList<>();
         objects2.removeAll(objects1);
+        
+        //写个注释，pull到本地修改
 
 
     }
